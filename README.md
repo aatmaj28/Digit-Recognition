@@ -1,3 +1,4 @@
-# Digit-Recognition
+# handwritten-digits-recognition
+A script that trains a model to recognize handwritten digits using the MNIST data set. Then it loads external files and uses the neural network to predict what digits they are.
 
-My project is a Handwritten Digit Recognition Model that utilizes Artificial Neural Networks and Tensorflow. By training a neural network on the MNIST dataset, it is capable of accurately recognizing handwritten digits. When fed with test data, the model identifies and outputs the most appropriate digit, enabling efficient digit recognition and classification.
+Feel free to add 28x28 pixel images into the digits directory!
