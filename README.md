@@ -1,2 +1,3 @@
 # Digit-Recognition
-My project employs Artificial Neural Networks and Tensorflow to train a model on the MNIST dataset for Handwritten Digit Recognition. It accurately predicts the appropriate digit when provided with test data, enabling efficient and reliable digit classification.
+
+My project is a Handwritten Digit Recognition Model that utilizes Artificial Neural Networks and Tensorflow. By training a neural network on the MNIST dataset, it is capable of accurately recognizing handwritten digits. When fed with test data, the model identifies and outputs the most appropriate digit, enabling efficient digit recognition and classification.
