@@ -1,6 +1,8 @@
 # ✏️ Handwritten Digits Recognition 🔢
 
-![MNIST Dataset Sample](placeholder-for-mnist-image.png)
+<p align="center">
+  <img src="Images/mnist.png" alt="Dataset" width="75%" />
+</p>
 
 ## 📝 Overview
 
